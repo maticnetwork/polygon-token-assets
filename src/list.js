@@ -631,6 +631,10 @@ const list = {
                 symbol: "GRT",
                 icon: 'grt.svg'
         },
+        'gtc': {
+                symbol: "GTC",
+                icon: 'gtc.svg'
+        },
         'gto': {
                 symbol: "GTO",
                 icon: 'gto.svg'
